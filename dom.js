@@ -49,4 +49,4 @@ let evenCount = 0;
 numbers.forEach(number => {
   if (number % 2 === 0) {
     evenCount++;}});
-console.log(evenCount); // Output: 3
+console.log(evenCount);
